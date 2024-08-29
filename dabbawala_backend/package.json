@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imvktiwari/dabbawala.git"
+    "url": "git+https://github.com/himanshukumar29/dabbawala.git"
   },
-  "author": "VAIBHAV KUMAR TIWARI",
+  "author": "HIMANSHU KUMAR",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/imvktiwari/dabbawala/issues"
+    "url": "https://github.com/himanshukumar29/dabbawala/issues"
   },
-  "homepage": "https://github.com/imvktiwari/dabbawala#readme",
+  "homepage": "https://github.com/himanshukumar29/dabbawala#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",
